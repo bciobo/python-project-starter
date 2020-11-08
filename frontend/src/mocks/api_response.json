@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Hamburg Tower",
+      "location": "Hamburg"
+    },
+    {
+      "id": 2,
+      "name": "Ritterstraße",
+      "location": "Berlin"
+    }
+  ]
+}
